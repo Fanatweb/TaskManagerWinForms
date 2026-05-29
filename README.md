@@ -32,3 +32,10 @@
 2. Клонируйте репозиторий:
    ```bash
    git clone https://github.com/Fanatweb/TaskManagerWinForms.git
+
+   👤 Об авторе
+Роман Дудин
+
+GitHub: @Fanatweb
+
+Email: fanat_web@icloud.com
