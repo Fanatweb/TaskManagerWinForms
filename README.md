@@ -33,7 +33,8 @@
    ```bash
    git clone https://github.com/Fanatweb/TaskManagerWinForms.git
 
-   👤 Об авторе
+
+👤 Об авторе
 Роман Дудин
 
 GitHub: @Fanatweb
